@@ -108,6 +108,14 @@
 				<key>Path</key>
 				<string>layout100.xml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Custom ALC897 with Corrected Hardware Mapping - Layout 101</string>
+				<key>Id</key>
+				<integer>101</integer>
+				<key>Path</key>
+				<string>layout101.xml</string>
+			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
@@ -206,6 +214,14 @@
 				<integer>100</integer>
 				<key>Path</key>
 				<string>Platforms100.xml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Custom ALC897 with Corrected Hardware Mapping - Layout 101</string>
+				<key>Id</key>
+				<integer>101</integer>
+				<key>Path</key>
+				<string>Platforms101.xml</string>
 			</dict>
 		</array>
 	</dict>
